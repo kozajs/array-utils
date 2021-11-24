@@ -24,7 +24,7 @@
 	},
 	"keywords": [],
 	"author": "",
-	"license": "ISC",
+	"license": "GPLV3",
 	"files": [
 		"dist/*"
 	],
