@@ -1,6 +1,6 @@
 {
 	"name": "@kozajs/array-utils",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Array utilities used in the Koza project.",
 	"homepage": "https://github.com/kozajs/array-utils",
 	"publishConfig": {
