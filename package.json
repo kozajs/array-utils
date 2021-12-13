@@ -22,8 +22,7 @@
 		"prerelease": "npm run build",
 		"release": "release-it"
 	},
-	"keywords": [],
-	"author": "",
+	"author": "depthbomb",
 	"license": "GPLV3",
 	"files": [
 		"dist/*"
