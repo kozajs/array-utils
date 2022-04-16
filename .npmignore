@@ -1,3 +1,4 @@
+.yarn
 .gitignore
 .release-it.json
 tsconfig.json
