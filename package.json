@@ -1,6 +1,6 @@
 {
 	"name": "@kozajs/array-utils",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"license": "MIT",
 	"author": "depthbomb",
 	"description": "Array utilities used in the Koza project.",
