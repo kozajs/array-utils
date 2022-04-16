@@ -24,4 +24,4 @@ export function emptyArrays(...arrays: any[][]): void {
  */
 export function closestNumber(input: number, numbers: number[]): number {
 	return numbers.reduce((prev, curr) => (Math.abs(curr - input) < Math.abs(prev - input) ? curr : prev));
-}
+};
